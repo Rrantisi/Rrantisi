@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋🏻 <br><br> I'm Reham 👩🏻‍💻 </h1> 
-<a href="https://www.linkedin.com/in/rehamrantisi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> &nbsp; &nbsp;
+<h1 align="center"> Hi there 👋🏻 <br><br> I'm Reham 👩🏻‍💻 </h1>
+<br><a href="https://www.linkedin.com/in/rehamrantisi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> &nbsp; &nbsp;
 <a href="mailto:rantisireham19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 <!--
