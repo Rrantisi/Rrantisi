@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there 👋🏻  &nbsp; <br><br> I'm Reham 👩🏻‍💻 </h1> 
+<a href="[https://www.linkedin.com/in/rehamrantisi/](https://www.linkedin.com/in/rehamrantisi/)"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 <!--
 **Rrantisi/Rrantisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
