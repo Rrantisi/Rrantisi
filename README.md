@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋🏻 <br><br> I'm Reham 👩🏻‍💻 <br><br></h1>
 <br><a href="https://www.linkedin.com/in/rehamrantisi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> &nbsp; &nbsp;
 <a href="mailto:rantisireham19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<br><br>
-<h1></h1>
+<br>
+<!-- <h1></h1>
 <div align="right">
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css"</a>&nbsp;
@@ -19,7 +19,7 @@
 <a href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresQL"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>&nbsp;
-</div>
+</div> -->
 <!--
 **Rrantisi/Rrantisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
