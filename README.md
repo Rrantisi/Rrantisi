@@ -45,16 +45,16 @@
   
 <h2>MyCookBook</h2>
 <p align="left">
-  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/333.png" alt="app-screenshot" height="240px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/888.png" height="240px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/333.png" alt="app-screenshot" height="210px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/888.png" height="210px"></a>&nbsp;
 </p>
   
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/my-cook-book)
 
 <h2>...tracked</h2>
 <p align="left">
-  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/11.png" alt="app-screenshot" height="220px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/55.png" height="220px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/11.png" alt="app-screenshot" height="200px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/55.png" height="200px"></a>&nbsp;
 </p>
   
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/task-manager-frontend)
