@@ -32,6 +32,54 @@
 <a href=""><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="Github Pages"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>&nbsp;
 </div>
+<h2>Recent Projects</h2>
+<h2>MyCookBook Mobile App</h2>
+<p align="left">
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/1.png" alt="app-screenshot" width="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/2.png" alt="app-screenshot" width="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/4.png" alt="app-screenshot" width="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/6.png" alt="app-screenshot" width="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/8.png" alt="app-screenshot" width="180px"></a>&nbsp;
+</p>
+  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/MyCookBook-ReactNative)
+  
+<h2>MyCookBook</h2>
+<p align="left">
+  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/333.png" alt="app-screenshot" height="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/8.png" alt="app-screenshot" height="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/888.png" height="180px"></a>&nbsp;
+</p>
+  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/my-cook-book)
+
+<h2>...tracked</h2>
+<p align="left">
+  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/11.png" alt="app-screenshot" height="160px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/33.png" alt="app-screenshot" height="160px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/55.png" height="160px"></a>&nbsp;
+</p>
+  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/task-manager-frontend)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/task-manager-backend)
+
+<h2>Catch-it! chrome extension</h2>
+<p align="left">
+  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" height="200px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/3.png" alt="app-screenshot" height="200px"></a>&nbsp;
+</p>
+  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/Catchit-chrome-extension)
+
+<h2>Other Projects</h2>
+
+[ReadMe Books](https://github.com/Rrantisi/ReadMe-Books-App)
+
+[Humming Bird](https://github.com/Rrantisi/humming-bird)
+
+[Memory Game](https://github.com/Rrantisi/memory-game)
+
+<h2></h2>
 <br><a href="https://www.linkedin.com/in/rehamrantisi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> &nbsp; &nbsp;
 <a href="mailto:rantisireham19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <br>
