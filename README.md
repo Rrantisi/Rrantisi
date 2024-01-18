@@ -35,11 +35,10 @@
 <h2>Recent Projects</h2>
 <h2>MyCookBook Mobile App</h2>
 <p align="left">
-  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/1.png" alt="app-screenshot" width="180px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/2.png" alt="app-screenshot" width="180px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/4.png" alt="app-screenshot" width="180px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/6.png" alt="app-screenshot" width="180px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/8.png" alt="app-screenshot" width="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/1.png" alt="app-screenshot" width="200px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/2.png" alt="app-screenshot" width="200px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/4.png" alt="app-screenshot" width="200px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/6.png" alt="app-screenshot" width="200px"></a>&nbsp;
 </p>
   
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/MyCookBook-ReactNative)
