@@ -1,14 +1,12 @@
-<h1 align="center"> Hi there 👋🏻 <br><br> I'm Reham 👩🏻‍💻 <br><br></h1>
-<br><a href="https://www.linkedin.com/in/rehamrantisi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> &nbsp; &nbsp;
-<a href="mailto:rantisireham19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<br>
-<!--
- <h1></h1>
-<div align="right">//
+<h1 align="center"> Hi there 👋🏻 <br><br> I'm Reham 👩🏻‍💻<br><br> </h1>
+<p>Greetings, everyone! I'm currently on a thrilling journey transitioning into the tech world. With a background in banking and financial services, I recently completed an intensive coding bootcamp, diving headfirst into the exciting universe of coding and innovation. During this adventure, I had the incredible opportunity to intern at Adobe, where I rolled up my sleeves and gained valuable hands-on experience. As a career switcher, I'm blending my financial expertise with a genuine passion for technology. Excited to contribute and thrive in this dynamic landscape, and looking forward to what the future holds!</p>
+<h1 align="left">Skills</h1>
+<p>Here's a snapshot of the technologies I work with:</p>
+<h4>Tech Stack:</h4>
+<div align="left">
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css"</a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Json"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></a>&nbsp;
@@ -16,23 +14,24 @@
 <a href=""><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Node.js-3" alt="NodeJs"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresQL"></a>&nbsp;
+<br>
+<h4>Tools:</h4>
 <a href=""><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" alt="Sentry"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="Github Pages"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>&nbsp;
 </div>
---!>
-<!--
-**Rrantisi/Rrantisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><a href="https://www.linkedin.com/in/rehamrantisi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> &nbsp; &nbsp;
+<a href="mailto:rantisireham19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<br>
