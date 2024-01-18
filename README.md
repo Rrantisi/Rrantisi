@@ -62,8 +62,8 @@
 
 <h2>Catch-it! chrome extension</h2>
 <p align="left">
-  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" height="190px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/3.png" alt="app-screenshot" height="190px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" height="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/3.png" alt="app-screenshot" height="180px"></a>&nbsp;
 </p>
   
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/Catchit-chrome-extension)
