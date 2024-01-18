@@ -55,8 +55,8 @@
 
 <h4>...tracked</h4>
 <p align="left">
-  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/11.png" alt="app-screenshot" height="200px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/55.png" height="200px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/11.png" alt="app-screenshot" height="190px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/task-manager-frontend/raw/main/src/images/55.png" height="190px"></a>&nbsp;
 </p>
   
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/task-manager-frontend)
@@ -64,8 +64,8 @@
 
 <h4>Catch-it! chrome extension</h4>
 <p align="left">
-  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" height="180px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/3.png" alt="app-screenshot" height="180px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" height="175px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/3.png" alt="app-screenshot" height="175px"></a>&nbsp;
 </p>
   
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/Catchit-chrome-extension)
