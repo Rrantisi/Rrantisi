@@ -45,8 +45,8 @@
   
 <h2>MyCookBook</h2>
 <p align="left">
-  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/333.png" alt="app-screenshot" height="210px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/888.png" height="210px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/333.png" alt="app-screenshot" height="215px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/my-cook-book/raw/main/main_app/static/images/888.png" height="215px"></a>&nbsp;
 </p>
   
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/my-cook-book)
@@ -62,8 +62,8 @@
 
 <h2>Catch-it! chrome extension</h2>
 <p align="left">
-  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" height="200px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/3.png" alt="app-screenshot" height="200px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" height="190px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/3.png" alt="app-screenshot" height="190px"></a>&nbsp;
 </p>
   
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/Catchit-chrome-extension)
