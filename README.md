@@ -73,9 +73,9 @@
 <h2>Other Projects</h2>
 <p align="center">
   
-<a href="https://github.com/Rrantisi/ReadMe-Books-App"><img src="https://github.com/Rrantisi/ReadMe-Books-App/raw/main/src/images/9.png" alt="app-screenshot" width="100px" height="80px"></a>&nbsp;
-<a href="https://github.com/Rrantisi/humming-bird"><img src="https://github.com/Rrantisi/humming-bird/raw/main/public/imgs/hb1.jpeg" alt="app-screenshot" width="100px" height="80px"></a>&nbsp;
-<a href="https://github.com/Rrantisi/memory-game"><img src="https://github.com/Rrantisi/memory-game/raw/main/images/youWon.png" alt="app-screenshot" width="100px" height="80px"></a>&nbsp;
+<a href="https://github.com/Rrantisi/ReadMe-Books-App"><img src="https://github.com/Rrantisi/ReadMe-Books-App/raw/main/src/images/9.png" alt="app-screenshot" width="140px" height="80px"></a>&nbsp;
+<a href="https://github.com/Rrantisi/humming-bird"><img src="https://github.com/Rrantisi/humming-bird/raw/main/public/imgs/hb1.jpeg" alt="app-screenshot" width="140px" height="80px"></a>&nbsp;
+<a href="https://github.com/Rrantisi/memory-game"><img src="https://github.com/Rrantisi/memory-game/raw/main/images/youWon.png" alt="app-screenshot" width="160px" height="80px"></a>&nbsp;
 
 </p>
 
