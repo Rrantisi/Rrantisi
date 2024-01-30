@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋🏻 <br><br> I'm Reham 👩🏻‍💻<br><br> </h1>
 <p>Greetings, everyone! I'm currently on a thrilling journey transitioning into the tech world. With a background in banking and financial services, I recently completed an intensive coding bootcamp at <em>General Assembly</em>, diving headfirst into the exciting universe of coding and innovation. During this adventure, I had the incredible opportunity to intern at <em>Adobe</em>, where I rolled up my sleeves and gained valuable hands-on experience. As a career switcher, I'm blending my financial expertise with a genuine passion for technology. Excited to contribute and thrive in this dynamic landscape, and looking forward to what the future holds!</p>
 
-For a more interactive experience, feel free to [explore my portfolio on my website](https://rrantisi.github.io/my-portfolio/)!
+For a more interactive experience, feel free to explore my portfolio on my [website](https://rrantisi.github.io/my-portfolio/)!
 
 <h2 align="left">Skills</h2>
 <p>Here's a snapshot of the technologies I work with:</p>
