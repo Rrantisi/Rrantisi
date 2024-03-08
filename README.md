@@ -22,6 +22,8 @@ For a more interactive experience, feel free to explore my portfolio on my <a hr
 <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresQL"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>&nbsp;
+  
 <br>
 <h4>Tools:</h4>
 <a href=""><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"></a>&nbsp;
