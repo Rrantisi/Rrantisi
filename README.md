@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋🏻 <br><br> I'm Reham 👩🏻‍💻<br><br> </h1>
-<p align="justify">I’m a software engineer with a passion for building user-friendly, efficient applications. After transitioning from a career in banking, I honed my skills through bootcamps at App Academy Open and General Assembly, and I’m now diving deep into full-stack development.
+<p align="justify">A software engineer with a passion for building user-friendly, efficient applications. After transitioning from a career in banking, I honed my skills through bootcamps at App Academy Open and General Assembly, and I’m now diving deep into full-stack development.
 
 I work with technologies like JavaScript, React, Redux, Python, Docker, and SQL to create clean, maintainable code. Right now, I’m focused on building web apps and continually refining my skills and knowledge.
 
