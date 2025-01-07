@@ -3,7 +3,7 @@
 
 I work with technologies like JavaScript, React, Redux, Python, Docker, and SQL to create clean, maintainable code. Right now, I’m focused on building web apps and continually refining my skills and knowledge.
 
-I’m always open to learning and collaborating with others, so feel free to reach out if you’re interested in working together or just want to chat about tech!</>
+I’m always open to learning and collaborating with others, so feel free to reach out if you’re interested in working together or just want to chat about tech!
 
 <h2 align="left">Skills</h2>
 <p>Here's a snapshot of the technologies I work with:</p>
