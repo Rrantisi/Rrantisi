@@ -5,6 +5,8 @@ I work with technologies like JavaScript, React, Redux, Python, Docker, and SQL 
 
 I’m always open to learning and collaborating with others, so feel free to reach out if you’re interested in working together or just want to chat about tech!
 
+📫 You can reach me at <a href="mailto:rantisireham19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> or connect with me on  <a href="https://www.linkedin.com/in/rehamrantisi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>.
+
 <h2 align="left">Skills</h2>
 <p>Here's a snapshot of the technologies I work with:</p>
 <h4>Tech Stack:</h4>
@@ -91,10 +93,4 @@ I’m always open to learning and collaborating with others, so feel free to rea
 </p>
 
 <h2></h2>
-<br>
-<p align="right">
-  <a href="https://www.linkedin.com/in/rehamrantisi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> &nbsp; &nbsp;
-<a href="mailto:rantisireham19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
 
-<br>
