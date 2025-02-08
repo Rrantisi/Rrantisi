@@ -18,11 +18,13 @@ Note: For a more interactive experience, feel free to explore <a href="https://r
 <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Json"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" alt="Flask" /></a>
 <a href=""><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJs"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative"></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" alt="Redux"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>&nbsp;
