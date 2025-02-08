@@ -48,6 +48,15 @@ Note: For a more interactive experience, feel free to explore <a href="https://r
 <a href=""><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>&nbsp;
 </div>
 <h2>Recent Projects</h2>
+
+<h4>SkillsForLittleStars</h4>
+<p align="left">
+  <img src="https://github.com/Rrantisi/Skills-for-Little-Stars/raw/main/frontend/src/images/3.png" alt="app-screenshot" height="215px"></a>&nbsp;
+  <img src="https://github.com/Rrantisi/Skills-for-Little-Stars/raw/main/frontend/src/images/4.png" alt="app-screenshot" height="215px"></a>&nbsp;
+</p>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/Skills-for-Little-Stars)
+
 <h4>MyCookBook Mobile App</h4>
 <p align="left">
   <img src="https://github.com/Rrantisi/MyCookBook-ReactNative/raw/main/assets/images/1.png" alt="app-screenshot" height="320px"></a>&nbsp;
@@ -76,17 +85,10 @@ Note: For a more interactive experience, feel free to explore <a href="https://r
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/task-manager-frontend)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/task-manager-backend)
 
-<h4>Catch-it! chrome extension</h4>
-<p align="left">
-  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" height="175px"></a>&nbsp;
-  <img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/3.png" alt="app-screenshot" height="175px"></a>&nbsp;
-</p>
-  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/Catchit-chrome-extension)
-
 <h2>Other Projects</h2>
 <p align="center">
-  
+
+<a href="https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/Rrantisi/Catchit-chrome-extension"><img src="https://github.com/Rrantisi/Catchit-chrome-extension/raw/main/images/1.png" alt="app-screenshot" width="140px" height="80px"></a>
 <a href="https://github.com/Rrantisi/ReadMe-Books-App"><img src="https://github.com/Rrantisi/ReadMe-Books-App/raw/main/src/images/9.png" alt="app-screenshot" width="140px" height="80px"></a>&nbsp;
 <a href="https://github.com/Rrantisi/humming-bird"><img src="https://github.com/Rrantisi/humming-bird/raw/main/public/imgs/hb1.jpeg" alt="app-screenshot" width="140px" height="80px"></a>&nbsp;
 <a href="https://github.com/Rrantisi/memory-game"><img src="https://github.com/Rrantisi/memory-game/raw/main/images/youWon.png" alt="app-screenshot" width="160px" height="80px"></a>&nbsp;
