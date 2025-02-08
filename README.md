@@ -49,7 +49,7 @@ Note: For a more interactive experience, feel free to explore <a href="https://r
 </div>
 <h2>Recent Projects</h2>
 
-<h4>SkillsForLittleStars</h4>
+<h4>Skills for Little Stars</h4>
 <p align="left">
   <img src="https://github.com/Rrantisi/Skills-for-Little-Stars/raw/main/frontend/src/images/3.png" alt="app-screenshot" height="215px"></a>&nbsp;
   <img src="https://github.com/Rrantisi/Skills-for-Little-Stars/raw/main/frontend/src/images/4.png" alt="app-screenshot" height="215px"></a>&nbsp;
